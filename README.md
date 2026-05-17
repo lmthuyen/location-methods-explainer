@@ -1,4 +1,4 @@
-# Location Calculation Methods — Interactive Explainer
+# Location Calculation Methods - Interactive Explainer
 A single-file, browser-based interactive explainer built with vanilla HTML, CSS, and JavaScript. Developed as part of a Decision Models course project (BANA 4095), this app uses a coffee shop analytics theme to visually demonstrate the differences between common location calculation methods.
 
 **What It Covers:**
@@ -17,3 +17,6 @@ A single-file, browser-based interactive explainer built with vanilla HTML, CSS,
 
 **Usage:**
 * Open *Caffein Analytics-Assignment.html* in any modern browser (Chrome, Firefox, Edge). No setup needed.
+
+**WebApp Preview:**
+<img width="1905" height="1033" alt="Screenshot 2026-05-17 at 2 00 07 PM" src="https://github.com/user-attachments/assets/22d3f891-cd65-48a2-a0f9-7dc3cddcd5c1" />
