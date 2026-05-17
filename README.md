@@ -2,8 +2,8 @@
 A single-file, browser-based interactive explainer built with vanilla HTML, CSS, and JavaScript. Developed as part of a Decision Models course project (BANA 4095), this app uses a coffee shop analytics theme to visually demonstrate the differences between common location calculation methods.
 
 **What It Covers:**
-* **Centroid vs. Geometric Median** — how each method finds a central location and when to use which
-* Haversine Distance vs. Driving Directions — straight-line geographic distance vs. real-world routing
+* **Centroid vs. Geometric Median** - how each method finds a central location and when to use which
+* **Haversine Distance vs. Driving Directions** - straight-line geographic distance vs. real-world routing
 * Real-world use cases framed around coffee shop and apartment location planning
 
 **Features:**
